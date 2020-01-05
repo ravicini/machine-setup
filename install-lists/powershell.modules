@@ -1,0 +1,5 @@
+posh-git
+PSColor
+PSReadLine -AllowPrerelease -Force
+posh-dotnet
+posh-alias
