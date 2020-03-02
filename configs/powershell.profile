@@ -2,7 +2,9 @@ Import-Module PSColor
 Import-Module PSReadLine
 Import-Module posh-dotnet
 Import-Module posh-alias
-Import-Module PSUtil
+Import-Module PoShWarp
+#Import-Module PSUtil
+#Write-Host "Imported psutil"
 
 Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
 Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward

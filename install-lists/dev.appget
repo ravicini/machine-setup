@@ -1,5 +1,7 @@
+azcopy
 azure-storage-emulator
 azure-cli
+beyond-compare
 chrome
 draw-io
 fiddler
@@ -8,7 +10,6 @@ insomnia
 inkscape
 jetbrains-toolbox
 node
-rider
+python
 teams
 visual-studio-2019-enterprise
-resharper

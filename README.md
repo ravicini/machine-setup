@@ -17,3 +17,20 @@ Run `update-dotfiles.ps1`
 - todoist (store)
 - wsl, ubuntu
 - windows terminal (store)
+
+## Manual install
+
+### Through Jet-Brains toolbox
+- Rider
+- ReSharper
+- Android Studio
+
+### npm global
+
+- @angular/cli
+- @ionic/cli
+- azure-functions-core-tools
+- cordova
+- native-run
+- parcel-bundler
+- yarn
